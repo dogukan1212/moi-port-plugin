@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "moi-port": {
+      "url": "https://moiport.com/yeni-api/mcp",
+      "headers": {
+        "Authorization": "Bearer moi_YOUR_WIDGET_PUBLIC_KEY"
+      }
+    }
+  }
+}
