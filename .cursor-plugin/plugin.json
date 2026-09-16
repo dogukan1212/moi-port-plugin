@@ -1,0 +1,10 @@
+{
+  "name": "moi-port",
+  "version": "0.1.0",
+  "description": "Connect Moi Port CRM to your agent: inbox, leads, channel status, and store-review helpers for Meta, Apple, Google Play, TikTok, and LinkedIn.",
+  "author": {
+    "name": "One Click Works"
+  },
+  "license": "MIT",
+  "keywords": ["crm", "moi-port", "inbox", "messaging", "meta", "sales"]
+}
